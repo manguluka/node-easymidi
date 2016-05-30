@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/dinchak/node-easymidi",
   "dependencies": {
-    "midi": "^0.9.4"
+    "midi": "manguluka/node-midi"
   },
   "devDependencies": {
     "chai": "^2.0.0",
