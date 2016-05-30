@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/dinchak/node-easymidi",
   "dependencies": {
-    "midi": "^0.9.1"
+    "midi": "^0.9.4"
   },
   "devDependencies": {
     "chai": "^2.0.0",
